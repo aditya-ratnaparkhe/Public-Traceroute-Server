@@ -1,0 +1,57 @@
+
+09/25/12 20:34:42 : Client Connected | IP: 129.79.245.204 | Port: 53911 
+09/25/12 20:35:01 : Client Disconnected | from IP: 129.79.245.204 PORT: 53911 
+
+-----------------------------------------------------------
+09/25/12 20:38:02 : Server started
+09/25/12 20:38:04 : Client Connected | IP: 129.79.245.204 | Port: 44738 
+09/25/12 20:38:12 : Traceroute www.soic.indiana.edu | from IP: 129.79.245.204 PORT: 44738 
+09/25/12 20:38:24 : Traceroute me | from IP: 129.79.245.204 PORT: 44738 
+09/25/12 20:38:45 : Traceroute me | from IP: 129.79.245.204 PORT: 44738 
+09/25/12 20:38:52 : Traceroute me | from IP: 129.79.245.204 PORT: 44738 
+09/25/12 20:38:56 : Traceroute me | from IP: 129.79.245.204 PORT: 44738 
+09/25/12 20:39:26 : Connection Timeout  | Client IP: 129.79.245.204 PORT: 44738
+09/25/12 20:39:30 : Client Connected | IP: 129.79.245.204 | Port: 46786 
+09/25/12 20:39:35 : Traceroute me | from IP: 129.79.245.204 PORT: 46786 
+09/25/12 20:39:39 : Traceroute me | from IP: 129.79.245.204 PORT: 46786 
+09/25/12 20:39:42 : Rate Limit Exceeded  | Client IP: 129.79.245.204 PORT: 46786 COMMAND: traceroute 129.79.245.204
+09/25/12 20:39:46 : Rate Limit Exceeded  | Client IP: 129.79.245.204 PORT: 46786 COMMAND: traceroute 129.79.245.204
+09/25/12 20:39:49 : Rate Limit Exceeded  | Client IP: 129.79.245.204 PORT: 46786 COMMAND: traceroute 129.79.245.204
+09/25/12 20:40:02 : Rate Limit Exceeded  | Client IP: 129.79.245.204 PORT: 46786 COMMAND: traceroute www.google.com
+09/25/12 20:40:07 : Traceroute www.google.com | from IP: 129.79.245.204 PORT: 46786 
+09/25/12 20:40:32 : Client Connected | IP: 129.79.245.204 | Port: 48834 
+09/25/12 20:40:40 : Maximum connections excceded  | Disconnecting | Client IP: 129.79.245.204 PORT: 48834 
+09/25/12 20:40:42 : Connection Timeout  | Client IP: 129.79.245.204 PORT: 46786
+09/25/12 20:41:02 : Connection Timeout  | Client IP: 129.79.245.204 PORT: 48834
+
+-----------------------------------------------------------
+09/25/12 20:42:03 : Server started
+09/25/12 20:42:10 : Client Connected | IP: 129.79.245.204 | Port: 7354 
+09/25/12 20:42:16 : Traceroute me | from IP: 129.79.245.204 PORT: 7354 
+09/25/12 20:42:24 : Traceroute me | from IP: 129.79.245.204 PORT: 7354 
+09/25/12 20:42:31 : Traceroute www.google.com | from IP: 129.79.245.204 PORT: 7354 
+09/25/12 20:42:40 : Rate Limit Exceeded  | Client IP: 129.79.245.204 PORT: 7354 COMMAND: traceroute 129.79.245.204
+09/25/12 20:42:59 : Client Connected | IP: 129.79.245.204 | Port: 8634 
+09/25/12 20:43:05 : Traceroute me | from IP: 129.79.245.204 PORT: 8634 
+09/25/12 20:43:08 : Client Disconnected | from IP: 129.79.245.204 PORT: 8634 
+09/25/12 20:43:10 : Connection Timeout  | Client IP: 129.79.245.204 PORT: 7354
+09/25/12 20:43:15 : Client Connected | IP: 129.79.245.204 | Port: 9146 
+09/25/12 20:43:21 : Traceroute me | from IP: 129.79.245.204 PORT: 9146 
+09/25/12 20:43:24 : Traceroute me | from IP: 129.79.245.204 PORT: 9146 
+09/25/12 20:43:54 : Connection Timeout  | Client IP: 129.79.245.204 PORT: 9146
+
+-----------------------------------------------------------
+09/25/12 20:45:02 : Server started
+09/25/12 20:45:11 : Client Connected | IP: 129.79.245.204 | Port: 27024 
+09/25/12 20:45:13 : Traceroute me | from IP: 129.79.245.204 PORT: 27024 
+09/25/12 20:45:16 : Traceroute me | from IP: 129.79.245.204 PORT: 27024 
+09/25/12 20:45:24 : Rate Limit Exceeded  | Client IP: 129.79.245.204 PORT: 27024 COMMAND: traceroute 129.79.245.204
+09/25/12 20:45:33 : Rate Limit Exceeded  | Client IP: 129.79.245.204 PORT: 27024 COMMAND: traceroute www.google.com
+09/25/12 20:45:38 : Traceroute www.googel.com | from IP: 129.79.245.204 PORT: 27024 
+09/25/12 20:46:13 : Connection Timeout  | Client IP: 129.79.245.204 PORT: 27024
+
+-----------------------------------------------------------
+09/25/12 21:02:33 : Server started
+09/25/12 21:03:22 : Client Connected | IP: 129.79.245.202 | Port: 15315 
+09/25/12 21:03:27 : Traceroute www.googel.com | from IP: 129.79.245.202 PORT: 15315 
+09/25/12 21:03:36 : Client Disconnected | from IP: 129.79.245.202 PORT: 15315 

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------------------
+Welcome to traceroute - server
+
+Available commands
+
+* traceroute [ hostname |ip address | me | filename ]
+  hostname -- traceroute to something like www.google.com
+  ip address -- traceroute to host using ip address sucj as xx.xxx.xx.x
+  me -- traceroute from server to yourself
+  filename -- file should be already stored or uploaded to server
+* quit -- to quit from server
+-------------------------------------------------------------------------------------------
